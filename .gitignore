@@ -1,0 +1,11 @@
+#agents
+agents/__pycache__
+agents/.ipynb_checkpoints
+agents/.env
+
+#channels
+channels/node_modules
+channels/dist
+
+#others
+demo.mov
