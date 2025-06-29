@@ -4,9 +4,10 @@ agents/.ipynb_checkpoints
 agents/.env
 
 #channels
+channels/.env
 channels/node_modules
 channels/dist
-channels/.env
+
 
 #others
 demo.mov
