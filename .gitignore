@@ -6,6 +6,7 @@ agents/.env
 #channels
 channels/node_modules
 channels/dist
+channels/.env
 
 #others
 demo.mov
