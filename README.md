@@ -2,6 +2,10 @@
 
 A modern, intelligent chatbot system with a FastAPI backend powered by Google Gemini AI and a React frontend with real-time chat capabilities.
 
+## Demo
+
+![Demo](docs/demo.gif)
+
 ## 🏗️ System Architecture
 
 This project consists of two main components:
